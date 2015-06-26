@@ -1,6 +1,6 @@
 # encoding: utf-8
 Gem::Specification.new do |s|
-  s.name        = 'gherkin3'
+  s.name        = 'gherkin3-pre-alpha'
   s.version     = '3.0.0.alpha.1'
   s.authors     = ["Gáspár Nagy", "Aslak Hellesøy", "Steve Tooke"]
   s.description = 'Gherkin parser'
